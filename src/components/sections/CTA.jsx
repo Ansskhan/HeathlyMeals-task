@@ -8,7 +8,7 @@ export default function CTA() {
   return (
     <section id="cta" className="relative overflow-hidden">
       <img
-        src="https://images.unsplash.com/photo-1512003867696-6d5a68e1c6a2?auto=format&fit=crop&w=1600&q=70"
+        src="https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?auto=format&fit=crop&w=1600&q=70"
         alt=""
         aria-hidden="true"
         className="absolute inset-0 h-full w-full object-cover"

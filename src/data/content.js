@@ -50,7 +50,7 @@ export const SERVICES = [
     title: 'High-Protein Meal Plans',
     description: 'Nutrient-rich meals for active lifestyles and fitness goals.',
     image:
-      'https://images.unsplash.com/photo-1490645935987-3e3ac2e8c8a6?auto=format&fit=crop&w=800&q=70',
+      'https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea?auto=format&fit=crop&w=800&q=70',
     alt: 'Protein-rich salad bowl with vegetables',
   },
 ]

@@ -15,7 +15,7 @@ export default function About() {
         {/* Image collage */}
         <div className="relative">
           <img
-            src="https://images.unsplash.com/photo-1540420775420-3d8d5e21c263?auto=format&fit=crop&w=1000&q=70"
+            src="https://images.unsplash.com/photo-1529042410759-befb1204b468?auto=format&fit=crop&w=1000&q=70"
             alt="Fresh salad bowl with avocado, tomatoes and greens"
             className="h-72 w-full rounded-2xl object-cover shadow-md sm:h-96"
             loading="lazy"

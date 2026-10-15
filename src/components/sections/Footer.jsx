@@ -1,7 +1,7 @@
 import {
   Globe,
   AtSign,
-  Instagram,
+  Camera,
   Clapperboard,
   MessageCircle,
   MapPin,
@@ -14,7 +14,7 @@ import { CONTACT, FOOTER_LINKS } from '../../data/content.js'
 const SOCIALS = [
   { icon: Globe, label: 'Website', href: '#home' },
   { icon: AtSign, label: 'X / Twitter', href: 'https://twitter.com' },
-  { icon: Instagram, label: 'Instagram', href: 'https://instagram.com' },
+  { icon: Camera, label: 'Instagram', href: 'https://instagram.com' },
   { icon: Clapperboard, label: 'YouTube', href: 'https://youtube.com' },
   {
     icon: MessageCircle,
