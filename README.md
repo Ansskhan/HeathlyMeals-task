@@ -5,9 +5,8 @@ meal-prep brand in Dubai, implemented from a supplied reference design.
 
 ## Live & Repository
 
-- **Live URL (Vercel):** _see the deployed preview URL for this GitHub repo —
-  Vercel auto-deploys every push to `main`._
-- **Repository:** GitHub repo linked to this Vercel project.
+- **Live URL (Vercel):** [https://heathly-meals-task.vercel.app/]
+- **Repository:** [https://github.com/Ansskhan/HeathlyMeals-task/]
 
 ## Tech Stack
 
