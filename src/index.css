@@ -1,5 +1,55 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Jost", "Segoe UI", system-ui, sans-serif;
+
+  --color-forest-50: #f3f7f2;
+  --color-forest-100: #e5ede3;
+  --color-forest-200: #cbdcc6;
+  --color-forest-300: #a7c1a0;
+  --color-forest-400: #7ba16f;
+  --color-forest-500: #5c8251;
+  --color-forest-600: #47663e;
+  --color-forest-700: #3a5334;
+  --color-forest-800: #2f442b;
+  --color-forest-900: #1f2c1c;
+  --color-forest-950: #16211a;
+
+  --color-cream: #faf9f6;
+  --color-cream-dark: #f0efe8;
+
+  --color-leaf-500: #5c8251;
+  --color-leaf-600: #47663e;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: #1f2c1c;
+  background: var(--color-cream);
+}
+
+/* WhatsApp floating button */
+.whatsapp-float {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 9999px;
+  background: #25d366;
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+  transition: transform 0.2s ease;
+}
+.whatsapp-float:hover {
+  transform: scale(1.1);
 }
