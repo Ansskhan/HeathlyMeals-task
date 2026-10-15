@@ -12,7 +12,7 @@ meal-prep brand in Dubai, implemented from a supplied reference design.
 
 | Technology     | Choice                                  |
 | -------------- | --------------------------------------- |
-| Framework      | React 19 + Vite (Web)                   |
+| Framework      | React navtive web                   |
 | Styling        | Tailwind CSS v4 (utility classes)       |
 | Icons          | lucide-react                            |
 | Fonts          | Playfair Display (headings) + Jost (UI) |
